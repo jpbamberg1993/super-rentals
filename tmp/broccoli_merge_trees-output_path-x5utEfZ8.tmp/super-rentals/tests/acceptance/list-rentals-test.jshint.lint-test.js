@@ -1,1 +1,0 @@
-/Users/bam/Desktop/practice_work/emberjs-guides/super-rentals/tmp/broccoli_merge_trees-input_base_path-1xkGK8j3.tmp/2/super-rentals/tests/acceptance/list-rentals-test.jshint.lint-test.js

@@ -268,7 +268,7 @@ catch(err) {
 /* jshint ignore:start */
 
 if (!runningTests) {
-  require("super-rentals/app")["default"].create({"name":"super-rentals","version":"0.0.0+8f9908db"});
+  require("super-rentals/app")["default"].create({"name":"super-rentals","version":"0.0.0+1d65dfda"});
 }
 
 /* jshint ignore:end */
