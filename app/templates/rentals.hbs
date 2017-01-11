@@ -5,7 +5,8 @@
   {{#link-to 'about' class="button"}}
     About Us
   {{/link-to}}
-  {{#each model as |rentalUnit|}}
-    {{rental-listing rental=rentalUnit}}
-  {{/each}}
 </div>
+
+{{#each model as |rentalUnit|}}
+  {{rental-listing rental=rentalUnit}}
+{{/each}}
