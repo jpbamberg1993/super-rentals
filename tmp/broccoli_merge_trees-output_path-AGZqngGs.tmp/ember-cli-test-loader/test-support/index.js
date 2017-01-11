@@ -1,0 +1,1 @@
+/Users/bam/Desktop/practice_work/emberjs-guides/super-rentals/tmp/broccoli_merge_trees-input_base_path-HgRNEJDo.tmp/15/ember-cli-test-loader/test-support/index.js

@@ -1,0 +1,1 @@
+/Users/bam/Desktop/practice_work/emberjs-guides/super-rentals/tmp/broccoli_merge_trees-input_base_path-QLApPxgn.tmp/0/assets/tests.js
