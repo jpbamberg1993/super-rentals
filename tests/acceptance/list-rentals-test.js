@@ -38,8 +38,8 @@ test('should filter the list of rentals by city.', function (assert) {
   fillIn('.list-filter input', 'seattle');
   keyEvent('.list-filter input', 'keyup', 69);
   andThen(function () {
-    assert.equal(find('.listing').lendth, 1, 'should show one listing');
-    assert.equal(find('.listing .locations:contains("Seattle")').length, 1, 'should contain 1 listing with location Seattle');
+    assert.equal(find('.listing').length, 1, 'should show one listing');
+    assert.equal(find('.listing .location:contains("Seattle")').length, 1, 'should contain 1 listing with location Seattle');
   });
 });
 
