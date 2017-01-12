@@ -2,9 +2,10 @@ import { moduleForComponent, test } from 'ember-qunit';
 import hbs from 'htmlbars-inline-precompile';
 import Ember from 'ember';
 
-moduleForComponent('rental-listing', 'Integration | Component | rental listing', {
-  integration: true
-});
+moduleForComponent('rental-listing',
+  'Integration | Component | rental listing',
+  { integration: true }
+);
 
 test('should toggle wide class on click', function(assert) {
   assert.expect(3);
