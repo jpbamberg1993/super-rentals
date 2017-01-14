@@ -16,7 +16,7 @@ moduleFor('service:maps', 'Unit | Service | maps', {
 });
 
 test('should create a new map if one isnt cached for location', function (assert) {
-  assert.expect(4);
+  assert.expect(2);
   let stubMapUtil = MapUtilStub.create({ assert });
   let mapService = this.subject({ mapUtil: stubMapUtil });
   let element = mapService.getMapElement('San Francisco');
